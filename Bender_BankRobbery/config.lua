@@ -1,6 +1,6 @@
 config = {
 	hacktimer = 20, -- The amount of time to complete the hack.
-	enableBanks = true, -- Dont change this (Default: false)
+	enableBanks = true, -- Dont change this (Default: true)
 	markertype = 27, -- style for marker at banks & shops
 	distance = 1, -- how close to coords to start hacking and see the draw marker
 	size = 2.0, -- how big is the draw marker
@@ -8,7 +8,6 @@ config = {
 	ShopSpriteId = 59,
 	SpriteColour = 2, -- color of map blip (https://docs.fivem.net/docs/game-references/blips/)
 	ShopSpriteColour = 2,
-	FlashTime = 60, -- how long in seconds does the blip flash for on the map
 
 
 	bankcoords = {
