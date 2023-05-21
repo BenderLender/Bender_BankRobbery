@@ -7,3 +7,4 @@
 # there is a config file set it to your liking or leave it the way i have it set. doesnt matter.
 
 # I dont offer much of suppport because im learning like you.
+
