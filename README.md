@@ -1,10 +1,16 @@
-# Created by the one and only Bender
-# Bite my shiney metal ass (if you get the joke)
+# Bender Bank Robbery Script
+This script was based off of Badger bank robbery
+the code has been completely rewritten to work with mhacking
+# Requirements
+- mhacking
 
+# Suppport
+I dont offer much support but if you leave a comment on my fivem forum I will get back to you some time.
 
-# the script was originaly desinged by Badger. I just looked into some of the stuff he had and rewrote the entire script to work with mhacking and work in a complete different way.
-
-# there is a config file set it to your liking or leave it the way i have it set. doesnt matter.
-
-# I dont offer much of suppport because im learning like you.
-
+# Configuration
+- Add or remove bank and shop locations
+- change chat message notifation easily
+- change spriteID for the circle
+- change blip on map
+- change color of sprite
+- change color of blip
